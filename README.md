@@ -11,7 +11,7 @@
   </div>
   <div align="center">
     <h3>👻 Redes Sociales: </h3>
-    <a href="https://twitter.com/GeovasYosoy?t=qAWYVHS0v319b0qlBVftxQ&s=09](https://www.linkedin.com/in/angel-julian-burgos-estingautanddev/">
+    <a href="https://www.linkedin.com/in/angel-julian-burgos-estingautanddev/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LinkedIn_PNG16.png/640px-LinkedIn_PNG16.png" width="37" height="37" title="Linkedln"></a>
   </div>
 </div>
